@@ -1,0 +1,24 @@
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Jae\C# Coding\Assignment\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.exe.manifest
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.application
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.exe.manifest
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.application
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+G:\Team Drives\Adv. ComPro #6\Assignment 3.1 [TextEditor]\TextEditor\TextEditor\obj\Debug\TextEditor.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TextEditor.exe" version="1.0.0.0" publicKeyToken="8d8ffece22d0e27e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TextEditor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TextEditor.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TextEditor.exe" size="84440">
+      <assemblyIdentity name="TextEditor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>WdDbxiWN7rcVMM7DHk3AOjkITH+FE+2lI43oVBoGgZw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="TextEditor.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wDmrlTz6aNIp269ZO0+f+NuBph+l7PSF+/aeuhX4N/I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MEATCHOPPER-PC\jae02" issuerKeyHash="3942d1ddd2a6235c2718147bf8a9ea7c246d5426" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>meoB28clT58qcYTSvVbMTwcXxgusl86XX3waTkRR8KM=</DigestValue></Reference></SignedInfo><SignatureValue>u/N2LcKMhfk8ZiXIXXvg5eDaGhlDJYt++QLXvy58SaQKd6EpqD1NqCKK84LbpyIkRFW65Hrc1Bg2uu7k/hrWEV8npjDDiH8NvK9S39hkmEqEzHCAac3P56O/iukdfqGT7pUeUMhn/hcsaLZ3DO6V3Wy0W+v2yGbP3te62yNT5Pg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yKgL0ixuOHAMShxoBMoU08kHKTFSv7aDDR8nJ+Gg5ucgBszOOtlpeO05OClkLXma8ZI/ujeaAmCSF3aovPyjZnNh946CKoqs9eC5K0CWl/7gmmlNJfq7PMBjGyqX2SGbyxxiqP1TYEBLL2swVN2DX0nnpoCT3/VuMReTVv0+Nr0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a3f051444e1a7c5f97ce97ac0bc617074fcc56bdd284712a9f4f25c7db01ea99" Description="" Url=""><as:assemblyIdentity name="TextEditor.exe" version="1.0.0.0" publicKeyToken="8d8ffece22d0e27e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MEATCHOPPER-PC\jae02</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Nep+B2XjDbZ5n60VyKQpCA5BfmTRdJuCyi3hySiPmdQ=</DigestValue></Reference></SignedInfo><SignatureValue>wH0g+u7HXZpxMwv5qdC1f1+AI/rUDWWo2ddOy4Ei7DMlgnXscpcaLOB6vUKEc09GfBvBJxnBh67qh0W2WYaNPywOh4MIE8hFjLYI8RHFlZ/I/3H6tuhIWECWIZQE6qhwY3z5pcF/t5wsb/IPk8pBD4E7Uv34AG9+UZAasXSOC5M=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yKgL0ixuOHAMShxoBMoU08kHKTFSv7aDDR8nJ+Gg5ucgBszOOtlpeO05OClkLXma8ZI/ujeaAmCSF3aovPyjZnNh946CKoqs9eC5K0CWl/7gmmlNJfq7PMBjGyqX2SGbyxxiqP1TYEBLL2swVN2DX0nnpoCT3/VuMReTVv0+Nr0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQco80jh7SgIdGfgEXE6h1tjANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigATQBFAEEAVABDAEgATwBQAFAARQBSAC0AUABDAFwAagBhAGUAMAAyMB4XDTE4MDkzMDA2Mjc1NloXDTE5MDkzMDEyMjc1NlowMzExMC8GA1UEAx4oAE0ARQBBAFQAQwBIAE8AUABQAEUAUgAtAFAAQwBcAGoAYQBlADAAMjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyKgL0ixuOHAMShxoBMoU08kHKTFSv7aDDR8nJ+Gg5ucgBszOOtlpeO05OClkLXma8ZI/ujeaAmCSF3aovPyjZnNh946CKoqs9eC5K0CWl/7gmmlNJfq7PMBjGyqX2SGbyxxiqP1TYEBLL2swVN2DX0nnpoCT3/VuMReTVv0+Nr0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQAgi0TK6sH82aLs0s+bZiRR3UzuBk7DVJObArr3HBAg0uh6NJIa8tavqZF1/pMyApASgzwkxMiR9lq1NII3QBemNzuK7+CQ1z9q8LWTJCQyK4X5DHrxHzT849A7ZqfdKOKhWzVAlUfX5tfBqrQlUdvNMRfGlbGUtKUw/Ie0jFVRkw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
